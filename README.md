@@ -1,4 +1,9 @@
 # InformeTare3
+
+8-30
+
+
+
 32-52
 
 <img src= Img/32.jpg>
