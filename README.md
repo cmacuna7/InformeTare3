@@ -1,5 +1,19 @@
 # InformeTare3
 
+1. OBJETIVOS
+
+☻ Generales:
+
+* Ser capaces de reconocer los diferentes tipos de circuitos en paralelo a profundidad de los conceptos fundamentales.
+
+* Conocer los conceptos básicos sobre Ley de voltaje de Kirchhoff, resistores en serie y regla del divisor de voltaje mediante el estudio de la teoría.
+
+☻Específicos:
+
+*Estudiar los conceptos de fuentes de voltaje en serie, análisis de circuitos, regla del divisor de corriente, mediante la realizacion de ejercición para entender su relación  y reforzar los conocimientos establecidos en clase.
+
+*
+
 8-30
 
 <img src= Img/8.PNG>
