@@ -53,3 +53,22 @@ Marco Teorico
 <img src= Img/48.jpg>
 <img src= Img/50.jpg>
 <img src= Img/52.jpg>
+
+4. VDEO:
+
+https://youtu.be/wjNkYQvl1Vk
+
+5. CONCLUSIONES:
+
+* Tras aprender terminología y conocimientos base sobre los diferentes tipos de circuitos somos capaces de aplicarlos sobre circuitos eléctricos.
+
+* Ahora somos capaces de calcular la de fuentes de voltaje en serie, análisis de circuitos, regla del divisor de corriente
+*  Tras aprender terminología y conocimientos base sobre Ley de voltaje de Kirchhoff, resistores en serie y regla del divisor de voltaje somos capaces de aplicarlos sobre circuitos eléctricos.
+
+* Ahora podemos resolver problemas que se nos puede presentar en la vida practica ya sea para la elegir la cantidad de materiales que se necesita o evitar algún contra tiempo por no hacerlo bien.
+
+6. BIBLIOGRAFÍA:
+
+Allan.H.Wilhelm.C.(2008). Análisis de circuitos teoría y práctica. Santa Fe, México: Cengage learning editores.
+Bloque 3: Ley de ohm. Potencia eléctrica y energía | Circuitos eléctricos básicos. (2016, 2 marzo). http://www.iesvirgensoledad.es/tecnologia/ud_circuitos_electricos/bloque_3_ley_de_ohm_potencia_elctrica_y_energa.html
+
