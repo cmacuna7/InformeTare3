@@ -10,7 +10,7 @@
 
 ☻Específicos:
 
-*Estudiar los conceptos de fuentes de voltaje en serie, análisis de circuitos, regla del divisor de corriente, mediante la realizacion de ejercición para entender su relación  y reforzar los conocimientos establecidos en clase.
+* Estudiar los conceptos de fuentes de voltaje en serie, análisis de circuitos, regla del divisor de corriente, mediante la realizacion de ejercición para entender su relación  y reforzar los conocimientos establecidos en clase.
 
 
 8-30
