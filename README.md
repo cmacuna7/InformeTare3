@@ -30,14 +30,14 @@ UNIDAD 5
 <img src=Img/19-2.jpg>
 <img src=Img/21.jpg>
 
-<img src=Img/23-5.jpg>
-<img src=Img/25-5.jpg>
-<img src=Img/27-5.jpg>
-<img src=Img/29,31-5.jpg>
-<img src=Img/33,35-5.jpg>
-<img src=Img/37-5.jpg>
-<img src=Img/39,2-5,6.jpg>
-<img src=Img/4,6-6.jpg>
+<img src=Img/23-5.PNG>
+<img src=Img/25-5.PNG>
+<img src=Img/27-5.PNG>
+<img src=Img/29,31-5.PNG>
+<img src=Img/33,35-5.PNG>
+<img src=Img/37-5.PNG>
+<img src=Img/39,2-5,6.PNG>
+<img src=Img/4,6-6.PNG>
 
 
 <img src= Img/8.PNG>
