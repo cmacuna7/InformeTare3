@@ -12,6 +12,24 @@
 
 * Estudiar los conceptos de fuentes de voltaje en serie, análisis de circuitos, regla del divisor de corriente, mediante la realizacion de ejercición para entender su relación  y reforzar los conocimientos establecidos en clase.
 
+Marco Teorico 
+
+<img src= Img/mapa1-5.jpg>
+<img src= Img/mapa2-5.jpg>
+
+1-21
+
+<img src= Img/1-3.jpg>
+<img src= Img/5.jpg>
+<img src= Img/7.jpg>
+<img src= Img/13.jpg>
+<img src=Img/15.jpg>
+<img src=Img/17.jpg>
+<img src=Img/19.jpg>
+<img src=Img/19-2.jpg>
+<img src=Img/21.jpg>
+
+
 
 8-30
 
