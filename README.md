@@ -1,4 +1,4 @@
-# InformeTare3
+# InformeTarea3
 
 1. OBJETIVOS
 
